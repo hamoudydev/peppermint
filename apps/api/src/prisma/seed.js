@@ -78,18 +78,14 @@ async function main() {
                     <p>Hello, <br>A new ticket has been assigned to you.</p>
                     <p style="font-size:14px;margin:16px 0;color:#000">
                     Kind regards, 
+                    <br>
+                    Tiba HelpDesk
+                    <br>
+                    <a href="mailto:support@tibahelpdesk.com">support@tibahelpdesk.com</a>
+                    <br>
+                    <a href="tel:+13134448384">313-444-8384</a>
+                    </p>
   
-                    <table align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
-                      <tbody>
-                        <tr>
-                          <td>
-                            <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://docs.peppermint.sh" rel="noopener noreferrer">Documentation</a>   |   <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://discord.gg/8XFkbgKmgv" rel="noopener noreferrer">Discord</a> </a>
-                            <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left">This was an automated message sent by peppermint.sh -> An open source helpdesk solution</p>
-                            <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left;margin-bottom:50px">©2022 Peppermint Ticket Management, a Peppermint Labs product.<br />All rights reserved.</p>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
                   </td>
                 </tr>
               </table>
@@ -118,18 +114,14 @@ async function main() {
                     <p>{{comment}}</p>
                     <p style="font-size:14px;margin:16px 0;color:#000">
                     Kind regards, 
+                    <br>
+                    Tiba HelpDesk
+                    <br>
+                    <a href="mailto:support@tibahelpdesk.com">support@tibahelpdesk.com</a>
+                    <br>
+                    <a href="tel:+13134448384">313-444-8384</a>
+                    </p>
 
-                    <table align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
-                      <tbody>
-                        <tr>
-                          <td>
-                          <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://docs.peppermint.sh" rel="noopener noreferrer">Documentation</a>   |   <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://discord.gg/8XFkbgKmgv" rel="noopener noreferrer">Discord</a> </a>
-                          <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left">This was an automated message sent by peppermint.sh -> An open source helpdesk solution</p>
-                            <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left;margin-bottom:50px">©2022 Peppermint Ticket Management, a Peppermint Labs product.<br />All rights reserved.</p>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
                   </td>
                 </tr>
               </table>
@@ -158,18 +150,14 @@ async function main() {
                     <p>Hello, <br>Your ticket has now been created and logged.</p>
                     <p style="font-size:14px;margin:16px 0;color:#000">
                     Kind regards, 
+                    <br>
+                    Tiba HelpDesk
+                    <br>
+                    <a href="mailto:support@tibahelpdesk.com">support@tibahelpdesk.com</a>
+                    <br>
+                    <a href="tel:+13134448384">313-444-8384</a>
+                    </p>
 
-                    <table align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
-                      <tbody>
-                        <tr>
-                          <td>
-                          <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://docs.peppermint.sh" rel="noopener noreferrer">Documentation</a>   |   <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://discord.gg/8XFkbgKmgv" rel="noopener noreferrer">Discord</a> </a>
-                          <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left">This was an automated message sent by peppermint.sh -> An open source helpdesk solution</p>
-                            <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left;margin-bottom:50px">©2022 Peppermint Ticket Management, a Peppermint Labs product.<br />All rights reserved.</p>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
                   </td>
                 </tr>
               </table>
@@ -204,20 +192,13 @@ async function main() {
                     <p>Your Ticket, now has a status of {{status}}</p>
                     Kind regards, 
                     <br>
-                    Peppermint ticket management
+                    Tiba HelpDesk
+                    <br>
+                    <a href="mailto:support@tibahelpdesk.com">support@tibahelpdesk.com</a>
+                    <br>
+                    <a href="tel:+13134448384">313-444-8384</a>
                     </p>
                     
-                    <table align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
-                      <tbody>
-                        <tr>
-                          <td>
-                          <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://docs.peppermint.sh" rel="noopener noreferrer">Documentation</a>   |   <a target="_blank" style="color:#b7b7b7;text-decoration:underline" href="https://discord.gg/8XFkbgKmgv" rel="noopener noreferrer">Discord</a> </a>
-                          <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left">This was an automated message sent by peppermint.sh -> An open source helpdesk solution</p>
-                            <p style="font-size:12px;line-height:15px;margin:16px 0;color:#b7b7b7;text-align:left;margin-bottom:50px">©2022 Peppermint Ticket Management, a Peppermint Labs product.<br />All rights reserved.</p>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
                   </td>
                 </tr>
               </table>
